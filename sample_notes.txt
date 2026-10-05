@@ -1,0 +1,94 @@
+Chapter 1: Photosynthesis
+
+Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy, usually from the sun, into chemical energy stored in glucose. This process occurs primarily in the chloroplasts of plant cells.
+
+The overall chemical equation for photosynthesis is:
+6CO2 + 6H2O + Light Energy → C6H12O6 + 6O2
+
+Photosynthesis occurs in two main stages:
+
+1. Light-Dependent Reactions (in the thylakoid membranes):
+   - Light energy is absorbed by chlorophyll (the primary photosynthetic pigment)
+   - Water molecules are split (photolysis), releasing oxygen as a byproduct
+   - ATP and NADPH are produced — these are energy carriers
+   - This stage requires direct sunlight
+
+2. Light-Independent Reactions / Calvin Cycle (in the stroma):
+   - CO2 is fixed using ATP and NADPH from the first stage
+   - The enzyme RuBisCO catalyzes the first step of CO2 fixation
+   - Glucose (C6H12O6) is synthesised
+   - Does NOT require direct light
+
+Key pigments involved:
+- Chlorophyll a: primary pigment, absorbs red and blue-violet light
+- Chlorophyll b: accessory pigment
+- Carotenoids (carotenes and xanthophylls): accessory pigments, absorb blue-green light
+
+Factors affecting the rate of photosynthesis:
+- Light intensity (more light = faster rate, up to saturation point)
+- CO2 concentration (higher CO2 = faster rate)
+- Temperature (optimal is around 25-30°C; too high denatures enzymes)
+- Water availability
+
+---
+
+Chapter 2: Cell Division
+
+Cell division is the process by which a cell duplicates its contents and divides into two daughter cells. There are two main types:
+
+1. Mitosis (for growth and repair):
+   - Produces 2 genetically identical daughter cells
+   - Maintains the chromosome number (diploid → diploid)
+   - Phases: Prophase → Metaphase → Anaphase → Telophase → Cytokinesis
+   
+   Prophase: Chromosomes condense and become visible; spindle fibres form
+   Metaphase: Chromosomes align at the cell equator (metaphase plate)
+   Anaphase: Sister chromatids are pulled to opposite poles
+   Telophase: Nuclear envelope reforms; chromosomes decondense
+   Cytokinesis: Cytoplasm divides, producing 2 identical cells
+
+2. Meiosis (for sexual reproduction):
+   - Produces 4 genetically unique daughter cells (gametes)
+   - Reduces chromosome number by half (diploid → haploid)
+   - Involves 2 rounds of division: Meiosis I and Meiosis II
+   - Crossing over occurs during Prophase I → genetic variation
+
+Key differences between Mitosis and Meiosis:
+- Mitosis: 1 division, 2 cells, identical, diploid
+- Meiosis: 2 divisions, 4 cells, unique, haploid
+
+The Cell Cycle:
+G1 phase → S phase (DNA replication) → G2 phase → M phase (Mitosis/Meiosis)
+
+Checkpoints ensure DNA integrity before the cell proceeds to division.
+
+---
+
+Chapter 3: DNA Structure and Replication
+
+DNA (Deoxyribonucleic Acid) is the molecule that carries genetic information in all living organisms.
+
+Structure of DNA (Watson-Crick Model, 1953):
+- Double helix structure
+- Made of nucleotides, each containing:
+  1. A deoxyribose sugar
+  2. A phosphate group
+  3. A nitrogenous base (A, T, G, or C)
+
+Base Pairing Rules (Chargaff's Rules):
+- Adenine (A) always pairs with Thymine (T) — 2 hydrogen bonds
+- Guanine (G) always pairs with Cytosine (C) — 3 hydrogen bonds
+- The two strands are antiparallel (one runs 5'→3', the other 3'→5')
+
+DNA Replication (Semi-conservative):
+1. Helicase unwinds and separates the double helix
+2. Primase adds RNA primers to provide a starting point
+3. DNA Polymerase III adds new complementary nucleotides (5'→3' direction only)
+4. Leading strand is synthesised continuously
+5. Lagging strand is synthesised in fragments (Okazaki fragments)
+6. DNA Ligase joins the Okazaki fragments together
+7. Result: 2 identical DNA molecules, each with one original and one new strand
+
+Mutations: Changes in the DNA sequence
+- Point mutations: single base change (substitution, insertion, deletion)
+- Chromosomal mutations: large-scale changes in chromosome structure or number
