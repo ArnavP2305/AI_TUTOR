@@ -66,16 +66,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## ☁️ Deploy on Streamlit Cloud (Free)
-
-1. Push this folder to a **GitHub repository**
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Click **"New app"** → select your repo → set `app.py` as the main file
-4. In **"Advanced settings" → Secrets**, add:
-   ```toml
-   GROQ_API_KEY = "gsk_your_actual_key_here"
-   ```
-5. Click **Deploy** — live in ~2 minutes! 🎉
 
 ## 🧠 LangGraph Concepts Used
 
